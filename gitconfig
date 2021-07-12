@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = olka.kolesova@gmail.com
+	name = Olga Kolesova
