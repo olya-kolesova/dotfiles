@@ -51,4 +51,4 @@
   rebase = false
 [user]
 	email = olka.kolesova@gmail.com
-	name = Olga Kolesova
+	name = rvm implode && sudo rm -rf ~/.rvm
